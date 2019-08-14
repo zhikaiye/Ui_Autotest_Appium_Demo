@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<suite name="haha">
+    <test name="haha">
+        <classes>
+            <class name="com.m4399.gamecenter.testcase.Case01登陆"/>
+        </classes>
+    </test>
+
+    <listeners>
+        <listener class-name="com.m4399.gamecenter.utils.ExtentTestNGIReporterListener"/>
+    </listeners>
+
+
+
+</suite>
