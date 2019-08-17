@@ -3,7 +3,7 @@
 <suite name="haha">
     <test name="haha">
         <classes>
-            <class name="com.m4399.gamecenter.testcase.Case01登陆"/>
+            <class name="com.autotest.testcases.Case001"/>
         </classes>
     </test>
 

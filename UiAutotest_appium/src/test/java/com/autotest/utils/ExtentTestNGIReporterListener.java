@@ -1,4 +1,4 @@
-package com.m4399.gamecenter.utils;
+package com.autotest.utils;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
