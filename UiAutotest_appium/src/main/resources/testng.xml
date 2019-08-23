@@ -3,12 +3,12 @@
 <suite name="haha">
     <test name="haha">
         <classes>
-            <class name="com.autotest.testcases.Case001"/>
+            <class name="com.autotest.testcases.DataDrivenDemo"/>
         </classes>
     </test>
 
     <listeners>
-        <listener class-name="com.m4399.gamecenter.utils.ExtentTestNGIReporterListener"/>
+        <listener class-name="com.autotest.utils.ExtentTestNGIReporterListener"/>
     </listeners>
 
 
